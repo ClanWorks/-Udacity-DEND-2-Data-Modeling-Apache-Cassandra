@@ -18,7 +18,9 @@ One file per day for November 2018.
 ### Project Files
 **Project_2.ipynb**  
 Project code to read data from CSV files and perform ETL with Apache Cassandra.
+
 **event_datafile_new.csv**  
 Smaller event data csv file  used to insert data into the Apache Cassandra tables
+
 **README.md**  
 This interesting discussion.  
